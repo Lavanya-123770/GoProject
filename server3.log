@@ -1,0 +1,5 @@
+INFO: Backup started
+INFO: Backup in progress
+ERROR: Backup failed due to disk space
+INFO: Backup retry scheduled
+ERROR: Backup failed again on retry

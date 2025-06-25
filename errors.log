@@ -1,0 +1,6 @@
+[server1.log]ERROR: Failed to connect to database
+[server1.log]ERROR: Timeout occurred while processing request
+[server2.log]ERROR: Invalid password attempt
+[server3.log]ERROR: Backup failed due to disk space
+[server3.log]ERROR: Backup failed again on retry
+[server2.log]ERROR: Could not retrieve user profile
